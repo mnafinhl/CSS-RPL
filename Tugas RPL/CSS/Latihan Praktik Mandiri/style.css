@@ -1,0 +1,41 @@
+/* Element Selector 1: Styling latar belakang halaman & font dasar */
+body {
+    background-color: #f0f4f8;
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+}
+
+p {
+    color: #00435e;
+}
+
+h1 {
+    color: rgb(90, 159, 188);
+    background-color: black;
+}
+
+h2 {
+    color: cyan;
+    background-color: grey;
+}
+
+h3 {
+    color: white;
+    background-color: black;
+}
+
+#judul-utama {
+    color: cyan;
+    text-align: center;
+    background-color: black;
+}
+
+.highlight {
+    background-color: yellow;
+    font-weight: bold;
+}
+
+.teks-kelas {
+    color: #d9534f;
+    font-weight: bold;
+}
